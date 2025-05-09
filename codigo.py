@@ -2,4 +2,4 @@ nombre = "Diego Alejandro"
 apellido = "jaimes Lizcano"
 
 saludo = print("hola "+ nombre + " "+apellido + "¿como estas?")
-print(saludo)
+print(saludo + "what'up")
